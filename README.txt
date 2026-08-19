@@ -1,7 +1,7 @@
 # E-Commerce Data Analysis Project
 
 ## 🔍 Overview
-This project analyzes an E-Commerce dataset sourced from Kaggle to extract valuable insights into **customer behavior, supplier performance, and sales trends** through advanced data visualization techniques.
+This project analyzes an E-Commerce dataset sourced from Kaggle [https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis/data] to extract valuable insights into **customer behavior, supplier performance, and sales trends** through advanced data visualization techniques.
 
 ## 📂 Files in This Project
 - **`data/`** ➝ Contains raw CSV files:
